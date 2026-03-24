@@ -62,6 +62,11 @@ Transformo datos complejos en soluciones estratégicas. Con experiencia en **Mac
 
 ---
 
+ | Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| **[Predict-Heart](https://github.com/inter097/predict-heart)** | Pipeline completo de ML para detección temprana de riesgos cardíacos con interfaz interactiva | Python, Scikit-learn, Streamlit |
+| | **[Demo en vivo](https://predict-heart.streamlit.app/)** | |
+
 ## Conectemos
 
 - https://linkedin.com/in/eliuth-torres
@@ -72,8 +77,4 @@ Transformo datos complejos en soluciones estratégicas. Con experiencia en **Mac
 
  *De datos complejos a decisiones estratégicas.*
 
- | Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| **[Predict-Heart](https://github.com/inter097/predict-heart)** | Pipeline completo de ML para detección temprana de riesgos cardíacos con interfaz interactiva | Python, Scikit-learn, Streamlit |
-| | **[Demo en vivo](https://predict-heart.streamlit.app/)** | |
 
