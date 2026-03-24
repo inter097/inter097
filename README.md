@@ -70,4 +70,4 @@ Transformo datos complejos en soluciones estratégicas. Con experiencia en **Mac
 
 ---
 
-⚡ *De datos complejos a decisiones estratégicas.*
+ *De datos complejos a decisiones estratégicas.*
