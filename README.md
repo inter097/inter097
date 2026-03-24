@@ -1,6 +1,6 @@
 # ¡Hola! Soy Eliut (inter097) 
 
-### Científico de Datos | MSc. en Ciencia de Datos | Especialista en AI & Salud
+### Científico de Datos | MSc. en Ciencia de Datos | Analista de datos
 
 Transformo datos complejos en soluciones estratégicas. Con experiencia en **Machine Learning**, **Bioinformática** y **Análisis de Datos**, ayudo a organizaciones a tomar mejores decisiones basadas en evidencia. Mi enfoque principal es optimizar diagnósticos médicos mediante algoritmos avanzados y crear dashboards que cuenten historias con datos.
 
