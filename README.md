@@ -13,4 +13,6 @@ Transformo datos complejos en soluciones estratégicas. Mi enfoque principal es 
 - **Data Engineering**: PostgreSQL, Spark, Airflow.
 - **Visualización**: Power BI, Tableau, Plotly, Streamlit.
 ---
-**¿Hablamos?** [https://linkedin.com/in/eliuth-torres] | [eliuth097@gmail.com]
+**Contacto** 
+- [https://linkedin.com/in/eliuth-torres]
+- [eliuth097@gmail.com]
