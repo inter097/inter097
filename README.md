@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**inter097/inter097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ¡Hola! Soy Eliut (inter097)
+### Científico de Datos | MSc. en Ciencia de Datos | Especialista en AI & Salud
+Transformo datos complejos en soluciones estratégicas. Mi enfoque principal es el **Aprendizaje Automático (ML)** y la **Bioinformática**, optimizando diagnósticos médicos mediante algoritmos avanzados.
+---
+### Proyectos Destacados
+*   **[EvoNeuroGraph](https://github.com/inter097/EvoNeuroGraph)**: Tesis de Maestría. Implementación de Algoritmos Genéticos y Redes Neuronales para el análisis de grafos cerebrales.
+*   **[Predict-Heart](https://github.com/inter097/predict-heart)**: Pipeline completo de ML para la detección temprana de riesgos cardíacos con interfaz en Streamlit.
+*   **[Spotify ETL](https://github.com/inter097/spotify-etl-analytics)**: Pipeline de ingeniería de datos real-time con integración a Dashboards de Power BI.
+---
+### Stack Tecnológico
+- **Lenguajes**: Python, R, SQL, MATLAB.
+- **ML Frameworks**: Scikit-learn, TensorFlow, PyTorch.
+- **Data Engineering**: PostgreSQL, Spark, Airflow.
+- **Visualización**: Power BI, Tableau, Plotly, Streamlit.
+---
+**¿Hablamos?** [https://linkedin.com/in/eliuth-torres] | [eliuth097@gmail.com]
