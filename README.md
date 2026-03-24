@@ -14,5 +14,5 @@ Transformo datos complejos en soluciones estratégicas. Mi enfoque principal es 
 - **Visualización**: Power BI, Tableau, Plotly, Streamlit.
 ---
 **Contacto** 
-- [https://linkedin.com/in/eliuth-torres]
-- [eliuth097@gmail.com]
+- https://linkedin.com/in/eliuth-torres
+- eliuth097@gmail.com
