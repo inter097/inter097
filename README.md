@@ -19,11 +19,11 @@ Transformo datos complejos en soluciones estratégicas. Con experiencia en **Mac
 
 ## Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| **[EvoNeuroGraph](https://github.com/inter097/EvoNeuroGraph)** | Tesis de Maestría. Implementación de Algoritmos Genéticos y Redes Neuronales para análisis de grafos cerebrales | Python, TensorFlow, Algoritmos Genéticos |
-| **[Predict-Heart](https://github.com/inter097/predict-heart)** | Pipeline completo de ML para detección temprana de riesgos cardíacos con interfaz interactiva | Python, Scikit-learn, Streamlit |
-| **[Spotify ETL](https://github.com/inter097/spotify-etl-analytics)** | Pipeline de ingeniería de datos en tiempo real con integración a dashboards | Python, SQL, Power BI, APIs |
+| Proyecto | Descripción | Tecnologías | Demo |
+|----------|-------------|-------------|------|
+| **[EvoNeuroGraph](https://github.com/inter097/EvoNeuroGraph)** | Tesis de Maestría. Implementación de Algoritmos Genéticos y Redes Neuronales para análisis de grafos cerebrales | Python, TensorFlow, Algoritmos Genéticos | — |
+| **[Predict-Heart](https://github.com/inter097/predict-heart)** | Pipeline completo de ML para detección temprana de riesgos cardíacos con interfaz interactiva | Python, Scikit-learn, Streamlit | [![Streamlit](https://img.shields.io/badge/🔗_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://predict-heart.streamlit.app/) |
+| **[Spotify ETL](https://github.com/inter097/spotify-etl-analytics)** | Pipeline de ingeniería de datos en tiempo real con integración a dashboards | Python, SQL, Power BI, APIs | — |
 
 > *Próximamente: Dashboards en Tableau Public y repositorio con casos prácticos de SQL*
 
@@ -61,11 +61,6 @@ Transformo datos complejos en soluciones estratégicas. Con experiencia en **Mac
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inter097&layout=compact&theme=dark)
 
 ---
-
- | Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| **[Predict-Heart](https://github.com/inter097/predict-heart)** | Pipeline completo de ML para detección temprana de riesgos cardíacos con interfaz interactiva | Python, Scikit-learn, Streamlit |
-| | **[Demo en vivo](https://predict-heart.streamlit.app/)** | |
 
 ## Conectemos
 
